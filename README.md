@@ -1,1 +1,1 @@
-![CI](https://github.com/YuriShornikov/env/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/YuriShornikov/Game_avatar_js/actions/workflows/web.yml/badge.svg)
